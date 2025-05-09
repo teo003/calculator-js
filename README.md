@@ -17,7 +17,7 @@ A simple and responsive calculator app made using **HTML**, **CSS**, and **JavaS
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/basic-calculator-app.git
+   git clone https://github.com/teo003/calculator-js.git
 
 ##💡 Usage
 Click on the calculator buttons to input numbers and operators. Press = to get the result. Use C to clear the display.
