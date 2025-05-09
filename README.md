@@ -19,14 +19,14 @@ A simple and responsive calculator app made using **HTML**, **CSS**, and **JavaS
    ```bash
    git clone https://github.com/teo003/calculator-js.git
 
-##💡 Usage
+## 💡 Usage
 Click on the calculator buttons to input numbers and operators. Press = to get the result. Use C to clear the display.
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 - HTML5
 - CSS3
 - Vanilla JavaScript
 
-##📜 License
+## 📜 License
 This project is open source and available under the GNU GENERAL PUBLIC LICENSE V3.0.
 
